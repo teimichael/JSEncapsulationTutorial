@@ -1,4 +1,4 @@
-; (function (global, undefined) {
+; (function (undefined) {
 
     function Object (){
 
